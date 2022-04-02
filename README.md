@@ -15,4 +15,4 @@
 ### 1. Sign up for a GEE account and install geemap
 * **Sign up**. you must first [sign up](https://earthengine.google.com/signup/) for a [Google Earth Engine](https://earthengine.google.com/) (GEE) account.
 
-[![](http://www.baidu.com/img/bdlogo.gif)](http://baidu.com)
+[![](https://i.imgur.com/ng0FzUT.png)](https://earthengine.google.com)
