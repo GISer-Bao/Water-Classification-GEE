@@ -7,12 +7,42 @@
 
 ## About the algorithm
 * #### This algorithm is based on [Google Earth Engine](https://earthengine.google.com/) (GEE) and [geemap](https://geemap.org/), so if you want to use it, it is essential for you to have a GEE account and install geemap.
-* **About [GEE](https://earthengine.google.com/)**, it combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. Earth Engine is now available for commercial use, and remains free for academic and research use. During the past few years, GEE has become very popular in the geospatial community and it has empowered numerous environmental applications at local, regional, and global scales. GEE provides both JavaScript and Python APIs for making computational requests to the Earth Engine servers.
-* **About [geemap](https://geemap.org/)**, it is a Python package for interactive mapping with [Google Earth Engine](https://earthengine.google.com/) (GEE), which is a cloud computing platform with a multi-petabyte catalog of satellite imagery and geospatial datasets.
+* **About [GEE](https://earthengine.google.com/),** it combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. Earth Engine is now available for commercial use, and remains free for academic and research use. During the past few years, GEE has become very popular in the geospatial community and it has empowered numerous environmental applications at local, regional, and global scales. GEE provides both JavaScript and Python APIs for making computational requests to the Earth Engine servers.
+* **About [geemap](https://geemap.org/),** it is a Python package for interactive mapping with [Google Earth Engine](https://earthengine.google.com/) (GEE), which is a cloud computing platform with a multi-petabyte catalog of satellite imagery and geospatial datasets.
 
 
 ## Using the algorithm
-### 1. Sign up for a GEE account and install geemap
-* **Sign up**. you must first [sign up](https://earthengine.google.com/signup/) for a [Google Earth Engine](https://earthengine.google.com/) (GEE) account.
 
+### 1. Sign up for a GEE account and install geemap
+
+* **Sign up.** you must first [sign up](https://earthengine.google.com/signup/) for a [Google Earth Engine](https://earthengine.google.com/) (GEE) account.
 [![](https://i.imgur.com/ng0FzUT.png)](https://earthengine.google.com)
+
+* **Install geemap.** geemap is also available on conda-forge. If you have Anaconda or Miniconda installed on your computer, you can create a conda Python environment to install geemap.
+```
+  conda create -n gee python=3.8
+  conda activate gee
+  conda install geopandas
+  conda install mamba -c conda-forge
+  mamba install geemap localtileserver -c conda-forge
+```
+
+* **Update geemap.** If you use conda, you can update geemap to the latest version by running the following command in your terminal.
+```
+  conda update -c conda-forge geemap
+```
+
+* **Optionally.** you can install [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions), which can improve your productivity in the notebook environment. Some useful extensions include Table of Contents, Gist-it, Autopep8, Variable Inspector, etc. See this [post](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) for more information.       
+```
+  conda install jupyter_contrib_nbextensions -c conda-forge
+ ```
+## Appendix
+* **geemap tutorials.** A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
+  GitHub repo: https://github.com/giswqs/geemap  
+  Documentation: https://geemap.org  
+  PyPI: https://pypi.org/project/geemap/  
+  Conda-forge: https://anaconda.org/conda-forge/geemap  
+  360+ GEE notebook examples: https://github.com/giswqs/earthengine-py-notebooks  
+  GEE Tutorials on YouTube: https://www.youtube.com/c/QiushengWu  
+
+ 
