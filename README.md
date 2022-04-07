@@ -35,7 +35,14 @@
 * **Optionally.** you can install [Jupyter notebook extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions), which can improve your productivity in the notebook environment. Some useful extensions include Table of Contents, Gist-it, Autopep8, Variable Inspector, etc. See this [post](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) for more information.       
 ```
   conda install jupyter_contrib_nbextensions -c conda-forge
- ```
+```
+
+### 2. Producing the corresponding waterbody products required
+
+### 2.1 Preparation.
+
+
+
 ## Appendix
 * **geemap tutorials.** A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
   GitHub repo: https://github.com/giswqs/geemap  
