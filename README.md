@@ -48,7 +48,7 @@
   run 01--Automatic training sample construction.ipynb
 ```
 #### 2.3 Waterbody products.
-* **Water occurrence (with temporal correction).** Please refer to [02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb(/code/02.01--Water&#32;detection&#32;and&#32;Temporal&#32;correction&#32;and&#32;Calculation&#32;of&#32;water&#32;occurrence.ipynb)
+* **Water occurrence (with temporal correction).** Please refer to [02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb](/code/02.01--Water&#32;detection&#32;and&#32;Temporal&#32;correction&#32;and&#32;Calculation&#32;of&#32;water&#32;occurrence.ipynb)
 ```
   run 02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb
 ```
@@ -60,7 +60,11 @@
 ```
   run 02.03--Water detection and Temporal correction.ipynb
 ```
-
+### 3. Download.
+By default, all processing results are saved to GEE's Assets. If required, they can also be downloaded to a local disk or Google Drive.Please refer to [03--Download data to Google Driver or Local Dish.ipynb](/code/03--Download&#32;data&#32;to&#32;Google&#32;Driver&#32;or&#32;Local&#32;Dish.ipynb)
+```
+  run 03--Download data to Google Driver or Local Dish.ipynb
+```
 
 ## Appendix
 * **geemap tutorials.** A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.  
