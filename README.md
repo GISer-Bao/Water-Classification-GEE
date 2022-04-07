@@ -60,7 +60,7 @@
 ```
   run 02.03--Water detection and Temporal correction.ipynb
 ```
-### 3. Download.
+### 3. Download result data.
 By default, all processing results are saved to GEE's Assets. If required, they can also be downloaded to a local disk or Google Drive.Please refer to [03--Download data to Google Driver or Local Dish.ipynb](/code/03--Download&#32;data&#32;to&#32;Google&#32;Driver&#32;or&#32;Local&#32;Dish.ipynb)
 ```
   run 03--Download data to Google Driver or Local Dish.ipynb
