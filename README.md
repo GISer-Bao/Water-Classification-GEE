@@ -43,15 +43,23 @@
 ```
   run 00--preparation.ipynb
 ```
-
 #### 2.2 Automatic training sample construction. Please refer to [01--Automatic training sample construction.ipynb](/code/01--Automatic training sample construction.ipynb)
 ```
   run 01--Automatic training sample construction.ipynb
 ```
-
 #### 2.3 Waterbody products.
-
-
+* **Water occurrence (with temporal correction).** Please refer to [02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb](/code/02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb)
+```
+  run 02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb
+```
+* **Water occurrence (w/o temporal correction).** Please refer to [02.02--Water detection and Calculation of water occurrence.ipynb](/code/02.02--Water detection and Calculation of water occurrence.ipynb)
+```
+  run 02.02--Water detection and Calculation of water occurrence.ipynb
+```
+* **Water detection.** Please refer to [02.03--Water detection and Temporal correction.ipynb](/code/02.03--Water detection and Temporal correction.ipynb)
+```
+  run 02.03--Water detection and Temporal correction.ipynb
+```
 
 
 ## Appendix
