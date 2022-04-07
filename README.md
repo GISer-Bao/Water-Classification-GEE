@@ -39,7 +39,18 @@
 
 ### 2. Producing the corresponding waterbody products required
 
-#### 2.1 Preparation. Please refer to []
+#### 2.1 Preparation. Please refer to [00--preparation.ipynb](/code/00--preparation.ipynb)
+```
+  run 00--preparation.ipynb
+```
+
+#### 2.2 Automatic training sample construction. Please refer to [01--Automatic training sample construction.ipynb](/code/01--Automatic training sample construction.ipynb)
+```
+  run 01--Automatic training sample construction.ipynb
+```
+
+#### 2.3 Waterbody products.
+
 
 
 
