@@ -81,7 +81,7 @@ By default, all processing results are saved to GEE's Assets. If required, they 
   GEE Tutorials on YouTube: https://www.youtube.com/c/QiushengWu  
 
 ## Acknowledgement
-
+We would like to acknowledge Prof. Qiusheng Wu for developing geemap python package, and acknowledge Google for providing free access to the Google Earth Engine platform.
 
 
 ## Contact
