@@ -66,7 +66,7 @@ By default, all processing results are saved to GEE's Assets. If required, they 
   run 03--Download data to Google Driver or Local Dish.ipynb
 ```
 
-### 4. Related experimental data （google drive）.
+### 4. Related experimental data （Google Drive）.
 ```
   https://drive.google.com/drive/folders/1o2oFQCisHkT-96yb_6eIa-xi8hHxsSPX?usp=sharing
 ```
