@@ -1,4 +1,4 @@
-# Water-Classification-GEE
+# Water-Mapping-GEE
 ## Paper
 * ### A fully automatic and high-accuracy surface water mapping framework on Google Earth Engine using Landsat time-series
 
