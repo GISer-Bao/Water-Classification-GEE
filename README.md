@@ -43,7 +43,7 @@ Efficient and continuous monitoring of surface water is essential for water reso
 ```
   run 00--preparation.ipynb
 ```
-#### 2.2 Automatic training sample construction. Please refer to [01--Automatic training sample construction v2.ipynb](/code/01--Automatic&#32;training&#32;sample&#32;construction.ipynb)
+#### 2.2 Automatic training sample construction. Please refer to [01--Automatic training sample construction v2.ipynb](/code/01--Automatic&#32;training&#32;sample&#32;construction#32;v2.ipynb)
 ```
   run 01--Automatic training sample construction v2.ipynb
 ```
