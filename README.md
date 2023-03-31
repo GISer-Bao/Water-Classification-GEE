@@ -87,4 +87,4 @@ We would like to acknowledge Prof. Qiusheng Wu for developing geemap python pack
 * **Yue L, Li B, Zhu S, et al. A fully automatic and high-accuracy surface water mapping framework on Google Earth Engine using Landsat time-series[J]. International Journal of Digital Earth, 2023, 16(1): 210-233. ([pdf](https://www.tandfonline.com/doi/epdf/10.1080/17538947.2023.2166606?needAccess=true&role=button)|[epub](https://www.tandfonline.com/doi/epub/10.1080/17538947.2023.2166606))**
 
 ## Contact
-If you have any questions about it, please feel free to contact me. (:email: rnlibaoguang@cug.edu.cn)
+If you have any questions about it, please feel free to contact me. (:email: rnlibaoguang@126.com or rnlibaoguang@cug.edu.cn)
