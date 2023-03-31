@@ -45,7 +45,7 @@ Efficient and continuous monitoring of surface water is essential for water reso
 ```
 #### 2.2 Automatic training sample construction. Please refer to [01--Automatic training sample construction v2.ipynb](/code/01--Automatic&#32;training&#32;sample&#32;construction.ipynb)
 ```
-  run 01--Automatic training sample construction.ipynb
+  run 01--Automatic training sample construction v2.ipynb
 ```
 #### 2.3 Waterbody products.
 * **Water occurrence (with temporal correction). Please refer to [02.01--Water detection and Temporal correction and Calculation of water occurrence.ipynb](/code/02.01--Water&#32;detection&#32;and&#32;Temporal&#32;correction&#32;and&#32;Calculation&#32;of&#32;water&#32;occurrence.ipynb)**
